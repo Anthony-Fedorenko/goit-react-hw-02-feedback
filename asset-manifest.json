@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Anthony-Fedorenko/goit-react-hw-02-feedback%20/static/css/main.f9f8a1da.chunk.css",
+    "main.js": "/Anthony-Fedorenko/goit-react-hw-02-feedback%20/static/js/main.e1d8e2c4.chunk.js",
+    "main.js.map": "/Anthony-Fedorenko/goit-react-hw-02-feedback%20/static/js/main.e1d8e2c4.chunk.js.map",
+    "runtime-main.js": "/Anthony-Fedorenko/goit-react-hw-02-feedback%20/static/js/runtime-main.8ed99fbf.js",
+    "runtime-main.js.map": "/Anthony-Fedorenko/goit-react-hw-02-feedback%20/static/js/runtime-main.8ed99fbf.js.map",
+    "static/js/2.37b176fa.chunk.js": "/Anthony-Fedorenko/goit-react-hw-02-feedback%20/static/js/2.37b176fa.chunk.js",
+    "static/js/2.37b176fa.chunk.js.map": "/Anthony-Fedorenko/goit-react-hw-02-feedback%20/static/js/2.37b176fa.chunk.js.map",
+    "index.html": "/Anthony-Fedorenko/goit-react-hw-02-feedback%20/index.html",
+    "static/css/main.f9f8a1da.chunk.css.map": "/Anthony-Fedorenko/goit-react-hw-02-feedback%20/static/css/main.f9f8a1da.chunk.css.map",
+    "static/js/2.37b176fa.chunk.js.LICENSE.txt": "/Anthony-Fedorenko/goit-react-hw-02-feedback%20/static/js/2.37b176fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ed99fbf.js",
+    "static/js/2.37b176fa.chunk.js",
+    "static/css/main.f9f8a1da.chunk.css",
+    "static/js/main.e1d8e2c4.chunk.js"
+  ]
+}
