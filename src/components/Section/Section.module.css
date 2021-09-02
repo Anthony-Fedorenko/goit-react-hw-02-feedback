@@ -1,0 +1,14 @@
+
+section {
+    width: 1000px;
+    margin: auto;
+    background-color: #DCDCDC;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.name {
+    font-size: xxx-large;
+    text-align: center;
+}

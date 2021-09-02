@@ -1,0 +1,14 @@
+
+li {
+    list-style: none;
+    font-size: x-large;
+}
+.good {
+    color: #006400;
+}
+.bad {
+    color: #8B0000;
+}
+.neutral {
+    color: 	#1E90FF;
+}
